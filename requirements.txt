@@ -1,0 +1,7 @@
+flask==2.0.1
+werkzeug==2.0.3
+opencv-python>=4.5.3
+numpy>=1.21.0
+requests>=2.26.0
+mtcnn>=0.1.0
+tensorflow>=2.8.0 

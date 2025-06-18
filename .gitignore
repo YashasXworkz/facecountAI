@@ -1,0 +1,28 @@
+# Virtual Environment
+venv/
+__pycache__/
+*.py[cod]
+
+# Uploads directory
+uploads/*
+!uploads/.gitkeep
+
+# Model files
+*.pt
+*.pth
+*.h5
+*.onnx
+*.tflite
+
+# Debug files
+final_output_*.jpg
+
+# OS specific files
+.DS_Store
+Thumbs.db
+
+# IDE specific files
+.idea/
+.vscode/
+*.swp
+*.swo 
